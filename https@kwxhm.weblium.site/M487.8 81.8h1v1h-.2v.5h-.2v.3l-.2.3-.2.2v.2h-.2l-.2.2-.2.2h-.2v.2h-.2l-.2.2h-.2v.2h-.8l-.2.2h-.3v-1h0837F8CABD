@@ -1,1 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?><Error><Code>InvalidObjectName</Code><Message>The specified object name is not valid.</Message><Details>The maximum object length is 1024 characters, but got a name with 3365 characters: 'site/686cd57eefe1a147756d5a90/m487.8 81.8h1v1h-.2v.5h-.2v.3l-.2.3-.2.2v.2h-.2...'</Details></Error>

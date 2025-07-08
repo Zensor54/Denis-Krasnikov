@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"client/editor-next/src/components/block-components/ecommerce/shopping-cart-next-view/style.css":function(n,o,e){n.exports={hidden:"hidden_3ih",rotation:"rotation_2G-"}}}]);

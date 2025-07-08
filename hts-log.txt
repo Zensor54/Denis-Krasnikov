@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Jul 2025 11:25:02 at https://kwxhm.weblium.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%P%B%s%u%I0p7H0%kf2A2500000%f0#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F  https://kwxhm.weblium.site/ -O1 "C:\OpenServer\domains\2\https___kwxhm.weblium.site_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:25:02	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+11:25:07	Error: 	"Not Found" (404) at link https://kwxhm.weblium.site/get (from https://kwxhm.weblium.site/)
+11:25:07	Warning: 	HTML file (3854 bytes) retransferred due to lack of cache: https://kwxhm.weblium.site/get
+11:25:08	Error: 	"Not Found" (404) at link https://kwxhm.weblium.site/get (from https://kwxhm.weblium.site/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 16 links scanned, 14 files written (3709790 bytes overall) [855570 bytes received at 142595 bytes/sec], 3713690 bytes transferred using HTTP compression in 16 files, ratio 22%, 3.6 requests per connection
+(2 errors, 2 warnings, 0 messages)
